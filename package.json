@@ -1,0 +1,24 @@
+{
+  "name": "vue-cli-plugin-simplehtmllayout",
+  "version": "1.0.0",
+  "description": "vue cli plugins for simplehtmllayout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyujienice/vue-cli-plugin-simplehtmllayout.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "simplehtmllayout"
+  ],
+  "author": "clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyujienice/vue-cli-plugin-simplehtmllayout/issues"
+  },
+  "homepage": "https://github.com/huyujienice/vue-cli-plugin-simplehtmllayout#readme"
+}

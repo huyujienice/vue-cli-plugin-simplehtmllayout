@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/huyujienice/vue-cli-plugin-simplehtmllayout/issues"
   },
-  "homepage": "https://github.com/huyujienice/vue-cli-plugin-simplehtmllayout#readme"
+  "homepage": "https://github.com/huyujienice/vue-cli-plugin-simplehtmllayout#readme",
+  "dependencies": {
+    "simplehtmllayout": "^1.0.0"
+  }
 }

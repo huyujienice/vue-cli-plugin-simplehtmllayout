@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-simplehtmllayout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue cli plugins for simplehtmllayout",
   "main": "index.js",
   "scripts": {

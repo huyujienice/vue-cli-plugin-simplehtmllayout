@@ -2,7 +2,7 @@ module.exports = (api) => {
   // add devDependencies
   api.extendPackage({
     devDependencies: {
-      simplehtmllayout: "^1.1.2",
+      simplehtmllayout: "^1.1.3",
     },
   });
 };
